@@ -5,15 +5,10 @@ header{
     background-color: #EAC926;
     
 }
-.burger-menu{
-    margin-left: 35mm;
-    color:white;
-    background-color: #03264C;
-    width: 25px;
-    height: 25px;
-    font-size: 30px;
-    background-size: 25px 50px;
-    padding: 10px 20px 20px 20px;
+.fa-bars{
+    background-color: #085fbd;
+    color: white;
+    padding: 8px;
     border-radius: 5px;
 }
 main{
@@ -23,7 +18,7 @@ p{
     font-size: 12px;
 }
 .icon{
-    color:#03264C;
+    color:#085fbd;
     font-size: 30px;
 }
 #cuotas{
@@ -44,4 +39,13 @@ p{
 }
 footer{
     text-align: center;
+}
+.burger-menu{
+    text-align: center;
+}
+#Copyright{
+    text-align: left;
+}
+a{
+    text-decoration:none;
 }
